@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local OCR Chat</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📄 OCR Document Reader</h1>
+            <p>Upload documents and extract text instantly</p>
+        </header>
+
+        <div class="chat-container">
+            <div class="messages" id="messages">
+                <div class="message bot-message">
+                    <div class="message-content">
+                        <p>Hello! I'm your OCR assistant. Upload a document (image or PDF) and I'll extract the text for you.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="input-area">
+                <div class="upload-zone" id="uploadZone">
+                    <input type="file" id="fileInput" accept="image/*,.pdf" hidden>
+                    <div class="upload-content">
+                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                            <polyline points="17 8 12 3 7 8"></polyline>
+                            <line x1="12" y1="3" x2="12" y2="15"></line>
+                        </svg>
+                        <p class="upload-text">Click or drag & drop to upload</p>
+                        <p class="upload-hint">Supports: PNG, JPG, PDF, GIF, BMP, TIFF (Max 16MB)</p>
+                    </div>
+                </div>
+
+                <div class="text-input-container">
+                    <input type="text" id="textInput" placeholder="Type a message..." class="text-input">
+                    <button id="sendButton" class="send-button">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="22" y1="2" x2="11" y2="13"></line>
+                            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
