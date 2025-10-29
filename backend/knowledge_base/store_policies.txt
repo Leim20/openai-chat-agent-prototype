@@ -1,0 +1,63 @@
+# STORE POLICIES
+
+## Shipping Policy
+
+### Domestic Shipping (Within Country)
+- Standard Shipping: 5-7 business days - $5.99
+- Express Shipping: 2-3 business days - $12.99
+- Free shipping on orders over $75
+
+### International Shipping
+- Available to select countries
+- Delivery time: 10-15 business days
+- Cost: Calculated at checkout based on destination
+
+### Order Processing
+- Orders are processed within 1-2 business days
+- You will receive a tracking number once your order ships
+
+## Return Policy
+
+### Returns
+- We accept returns within 30 days of purchase
+- Items must be unworn, unwashed, and with original tags attached
+- Return shipping is customer's responsibility unless item is defective
+
+### Refunds
+- Refunds are processed within 5-7 business days after we receive the return
+- Original shipping costs are non-refundable
+- Refunds will be issued to the original payment method
+
+### Exchanges
+- We offer free exchanges for different sizes or colors
+- Must be requested within 30 days of purchase
+
+## Size Guide
+
+### Men's Clothing
+- Small (S): Chest 34-36", Waist 28-30"
+- Medium (M): Chest 38-40", Waist 32-34"
+- Large (L): Chest 42-44", Waist 36-38"
+- X-Large (XL): Chest 46-48", Waist 40-42"
+- XX-Large (XXL): Chest 50-52", Waist 44-46"
+
+### Women's Clothing
+- X-Small (XS): Bust 30-32", Waist 24-26", Hips 34-36"
+- Small (S): Bust 32-34", Waist 26-28", Hips 36-38"
+- Medium (M): Bust 34-36", Waist 28-30", Hips 38-40"
+- Large (L): Bust 36-38", Waist 30-32", Hips 40-42"
+- X-Large (XL): Bust 38-40", Waist 32-34", Hips 42-44"
+
+## Payment Methods
+- Credit/Debit Cards (Visa, Mastercard, American Express)
+- PayPal
+- Apple Pay
+- Google Pay
+
+## Contact Information
+- Email: contact@example.com
+- Phone: +1 (555) 123-4567
+- Hours: Monday-Friday 9AM-6PM EST
+
+---
+INSTRUCTIONS: Update this file with your actual store policies, shipping rates, return policy, and contact information.

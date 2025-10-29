@@ -1,0 +1,64 @@
+# FREQUENTLY ASKED QUESTIONS (FAQ)
+
+## Ordering
+
+Q: How do I place an order?
+A: Browse our products, select your size and color, add items to your cart, and proceed to checkout. Follow the prompts to enter shipping information and payment details.
+
+Q: Can I modify or cancel my order?
+A: Contact us immediately at contact@example.com. If the order hasn't been shipped yet, we can modify or cancel it.
+
+Q: Do you offer gift wrapping?
+A: Yes! Gift wrapping is available for $5 per item. Select this option at checkout.
+
+## Shipping
+
+Q: How long does shipping take?
+A: Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days. International orders take 10-15 business days.
+
+Q: Do you ship internationally?
+A: Yes, we ship to select countries. Shipping costs and delivery times vary by location.
+
+Q: How can I track my order?
+A: You'll receive a tracking number via email once your order ships. Use this number on our website or the carrier's website to track your package.
+
+## Returns & Exchanges
+
+Q: What is your return policy?
+A: We accept returns within 30 days of purchase. Items must be unworn, unwashed, with original tags attached.
+
+Q: How do I return an item?
+A: Email contact@example.com with your order number and reason for return. We'll provide you with return instructions and a return label if applicable.
+
+Q: Do you charge for returns?
+A: Return shipping is the customer's responsibility unless the item is defective or we sent the wrong item.
+
+## Sizing
+
+Q: How do I find my size?
+A: Check our size guide in the product description or on our Size Guide page. Measurements are provided for all our clothing items.
+
+Q: What if the item doesn't fit?
+A: We offer free exchanges for different sizes. Contact us within 30 days to arrange an exchange.
+
+## Products
+
+Q: Are your products true to size?
+A: Yes, our products generally fit true to size. However, we recommend checking the specific product's size chart as fits may vary by style.
+
+Q: How do I care for my clothing?
+A: Care instructions are on the label of each garment. Most items can be machine washed in cold water and tumble dried on low.
+
+Q: Do you restock sold-out items?
+A: Popular items are usually restocked. Sign up for restock notifications on the product page or email us to inquire about specific items.
+
+## Payment & Security
+
+Q: Is my payment information secure?
+A: Yes, we use industry-standard SSL encryption to protect your payment information. We never store your full credit card details.
+
+Q: What payment methods do you accept?
+A: We accept all major credit cards, PayPal, Apple Pay, and Google Pay.
+
+---
+INSTRUCTIONS: Add your shop's actual frequently asked questions and answers.

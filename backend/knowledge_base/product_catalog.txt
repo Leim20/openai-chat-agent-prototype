@@ -1,0 +1,69 @@
+# PRODUCT CATALOG - CLOTHING SHOP
+
+## Men's Clothing
+
+### T-Shirts
+- Classic Cotton T-Shirt (Black, White, Navy, Gray)
+  * Price: $19.99
+  * Sizes: S, M, L, XL, XXL
+  * Material: 100% Cotton
+  * SKU: MTS-001
+
+- Premium V-Neck T-Shirt (Various Colors)
+  * Price: $24.99
+  * Sizes: S, M, L, XL, XXL
+  * Material: Cotton Blend
+  * SKU: MTS-002
+
+### Jeans
+- Slim Fit Denim Jeans (Blue, Black)
+  * Price: $59.99
+  * Sizes: 28-38 (waist)
+  * Material: Denim
+  * SKU: MJ-001
+
+- Relaxed Fit Jeans (Blue, Gray)
+  * Price: $54.99
+  * Sizes: 28-38 (waist)
+  * Material: Denim
+  * SKU: MJ-002
+
+## Women's Clothing
+
+### Dresses
+- Summer Floral Dress
+  * Price: $49.99
+  * Sizes: XS, S, M, L, XL
+  * Material: Cotton Blend
+  * SKU: WD-001
+
+- Evening Cocktail Dress (Black, Red, Navy)
+  * Price: $89.99
+  * Sizes: XS, S, M, L, XL
+  * Material: Polyester
+  * SKU: WD-002
+
+### Blouses
+- Silk Button-Up Blouse (White, Cream, Pink)
+  * Price: $39.99
+  * Sizes: XS, S, M, L, XL
+  * Material: Silk Blend
+  * SKU: WB-001
+
+## Accessories
+
+### Belts
+- Leather Belt (Brown, Black)
+  * Price: $29.99
+  * Sizes: S (28-32), M (32-36), L (36-40)
+  * Material: Genuine Leather
+  * SKU: ACC-BELT-001
+
+---
+INSTRUCTIONS: Replace this with your actual product catalog. Include:
+- Product names and descriptions
+- Prices
+- Available sizes and colors
+- SKU codes
+- Materials
+- Any special features or care instructions
